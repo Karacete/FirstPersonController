@@ -15,3 +15,8 @@
   <li>Projeyi çalıştırarak birinci şahıs kontrol mekanizmasını test edin.</li>
 </ul>
 <p>Katkıda bulunmak ve hataları bildirmek için <b>Pull Request</b> açabilirsiniz.</p>
+
+
+
+https://github.com/user-attachments/assets/cfa76419-037d-442c-a184-10a1a37954bc
+
